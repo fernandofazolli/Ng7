@@ -1,6 +1,9 @@
 Projeto de exemplo do video 
 https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
 
+
+
+
 # Ng7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
@@ -28,3 +31,17 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+
+
+
+
+
+######################
+ng build --prod
+
+npm install -g angular-http-server
+cd /path/to/site
+angular-http-server
+And browse to localhost:8080
